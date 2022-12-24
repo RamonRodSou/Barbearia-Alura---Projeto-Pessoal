@@ -1,0 +1,87 @@
+
+header {
+    background: #1f2022;
+    border: 1px solid #777777;
+    padding: 20px 0;
+    border-bottom: solid 2px #000000;
+
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    
+}
+
+main{
+
+    background: url(img/barb.jpg);
+    height: 800px;
+}
+
+nav {
+
+    position: absolute;
+    top:110px;
+    right: 0;
+    
+}
+
+nav li {
+
+    display: inline;
+    margin: 0 0 0 50px;
+    
+    }
+
+.contato_pagina{
+    color: #f45206;
+    
+}   
+
+
+nav a {
+
+    text-transform: uppercase;
+    color: #cac0fe;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
+
+nav a:hover {
+
+    color: #f45206;
+    text-decoration: underline;  
+    
+}  
+
+nav a:active {
+
+    color: #2fcc23;
+    text-decoration: underline;  
+    font-size: 25px;
+
+}
+
+
+
+
+
+footer {
+
+    background: url(img/bg.jpg);
+    padding: 50px 0;
+    text-align: center;
+}
+
+.copyright {
+
+    font-size: 11px;
+    font-weight: normal;
+    color: rgb(248, 248, 248);
+    margin-top: 20px;
+}
